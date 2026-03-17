@@ -84,9 +84,9 @@ Downloads a repository from a remote source to the local system.
 chmod +x <file_name>
 ```
 
-![opcijeMeduse](https://github.com/user-attachments/assets/2d386a83-44a5-45fd-a830-166a698ce616)
-
 Gives execution permission to a file (allows it to run as a program or script).
+
+![opcijeMeduse](https://github.com/user-attachments/assets/2d386a83-44a5-45fd-a830-166a698ce616)
 
 ```bash
 ssh-keygen -t rsa -b 4096 -C "user@example.com"
@@ -94,9 +94,9 @@ ssh-keygen -t rsa -b 4096 -C "user@example.com"
 
 Generates a secure RSA key pair (public and private key).  
 
----
-
 ![qr](https://github.com/user-attachments/assets/354f508c-0a07-4cbb-8b7f-e1b481d7db72)
+
+---
 
 ## 🎯 Chapter 3: QR-Based Phishing Scenario (Defensive Overview)
 
