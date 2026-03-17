@@ -1,7 +1,7 @@
-# 🔐 Medusa  Phisher
+# 🔐 Medusa Phisher
 ## QR Code Security & Phishing Awareness
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Purpose-Education-blue" />
   <img src="https://img.shields.io/badge/Security-Awareness-red" />
   <img src="https://img.shields.io/badge/Ethical%20Hacking-Only-green" />
@@ -18,11 +18,10 @@ The goal of this material is to:
 - Demonstrate how attackers exploit user behavior  
 - Help individuals and organizations recognize and prevent attacks  
 
-❗ Do not use this knowledge for malicious purposes.
-
----
 
 ❗ **Do NOT use this knowledge for malicious purposes.**
+
+---
 
 ## 📱 Chapter 1: QR Codes and the Concept of "Quishing"
 
