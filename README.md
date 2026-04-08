@@ -124,11 +124,11 @@ This technique is a form of **social engineering**, targeting human trust rather
 
 Attackers often use psychological triggers such as:
 
-- ⏰ **Urgency** – “Your account will be locked”  
-- 👀 **Curiosity** – “Scan to see exclusive content”  
-- 🏛️ **Authority** – Fake logos and branding  
-- 🤝 **Trust** – Public placement of QR codes  
-- ⚡ **Convenience** – Quick access without typing URLs  
+- **Urgency** – “Your account will be locked”  
+- **Curiosity** – “Scan to see exclusive content”  
+- **Authority** – Fake logos and branding  
+- **Trust** – Public placement of QR codes  
+- **Convenience** – Quick access without typing URLs  
 
 Quishing combines physical elements (QR codes) with digital deception, making it more difficult to detect.
 
